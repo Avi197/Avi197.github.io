@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Vietnamese news corpus
 ---
 ## 2 millions news corpus for Vietnamese NLP task
@@ -19,4 +19,3 @@ Title, description, content tokenized (raw text): ~5GB uncompressed, ~1GB compre
 
 There is a bigger news corpus by binvq, contain around 14 millions news, use that one if you need a lot of data
 [Binhvq news corpus](https://github.com/binhvq/news-corpus)
-
