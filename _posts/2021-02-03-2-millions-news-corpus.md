@@ -1,5 +1,6 @@
 ---
 published: false
+title: Vietnamese news corpus
 ---
 ## 2 millions news corpus for Vietnamese NLP task
 
