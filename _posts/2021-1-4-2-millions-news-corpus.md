@@ -9,17 +9,17 @@ MongoDB (all information: author, images, cover, ....): ~6GB uncompressed
 [Download](https://drive.google.com/file/d/1gTFdON-3DFL1HJ-01VXfmmPUzmdNPLzX/view?usp=sharing)
 
 MongoDB demo
-![]({{site.baseurl}}/https://github.com/Avi197/Avi197.github.io/blob/master/images/dantri%20demo.png)
-![]({{site.baseurl}}/https://github.com/Avi197/Avi197.github.io/blob/master/images/detail%20demo.png)
+![dantri demo.png]({{site.baseurl}}/_posts/dantri demo.png)
+![detail demo.png]({{site.baseurl}}/_posts/detail demo.png)
 
 
 title and description only (classification): ~500MB uncompress
 [Download](https://drive.google.com/file/d/1tavVhYYqMwdbH3fnqNcNCXUMO0IJO2-1/view?usp=sharing)
 
 Raw text
-![]({{site.baseurl}}/https://github.com/Avi197/Avi197.github.io/blob/master/images/non%20tokenized%20demo.png)
+![non tokenized demo.png]({{site.baseurl}}/_posts/non tokenized demo.png)
 Tokenized text
-![]({{site.baseurl}}/https://github.com/Avi197/Avi197.github.io/blob/master/images/tokenized%20demo.png)
+![tokenized demo.png]({{site.baseurl}}/_posts/tokenized demo.png)
 
 Title, description, content tokenized (raw text): ~5GB uncompressed, ~1GB compressed
 [Download](https://drive.google.com/file/d/1pXeX8YFOE1BRpKusAYFdBmjO6X9IH-g2/view?usp=sharing)
